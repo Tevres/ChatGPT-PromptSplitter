@@ -2,6 +2,7 @@ import os
 from typing import List
 import json
 from pathlib import Path
+#github
 
 def lese_datei_und_zaehle_buchstaben(dateipfad):
     with open(dateipfad, 'r', encoding='utf-8') as datei:
