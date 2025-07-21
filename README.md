@@ -25,7 +25,7 @@ Place your source text into a file named `input.txt` in the same directory as th
 python prompt_splitter.py
 ```
 
-#### Option A: Using Python directly
+#### Option B: Using the batch script (Windows only)
 Double-click run_splitter.bat or run it from the command line:
 ```bash
 run_splitter.bat
